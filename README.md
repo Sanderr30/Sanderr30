@@ -5,10 +5,10 @@
 
 ## Cтек
 
-* C++17/20 (stl, метапрограммирование)
-* Python (скрипты и быстрые прототипы)
-* PostgreSQL (работа с базами данных)
-* SystemVerilog, Logisim Evolution (цифровая логика и симуляции)
+* C++20
+* Python
+* PostgreSQL
+* SystemVerilog, Logisim Evolution
 
 ## Проекты
 
