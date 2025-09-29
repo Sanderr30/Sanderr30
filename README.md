@@ -21,5 +21,5 @@
 
 ## 📫 Контакты
 
-* Telegram: [@taynodernul11](https://t.me/taynodernul11)
+* Telegram: [@a11nd3r](https://t.me/a11nd3r)
 * Email: eg0rof@yandex.ru
