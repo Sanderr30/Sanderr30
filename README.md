@@ -22,4 +22,4 @@
 ## 📫 Контакты
 
 * Telegram: [@taynodernul11](https://t.me/taynodernul11)
-* Email: [eg0rof@yandex.ru]
+* Email: eg0rof@yandex.ru
