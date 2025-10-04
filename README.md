@@ -1,11 +1,13 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Привет!+Я+Александр+%F0%9F%91%8B;C%2B%2B+ментор+%7C+ITMO+student+%7C+Math+teacher" alt="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="120" alt="Hello Gif"/>
 </p>
+
+<h1 align="center">Привет! Я Александр</h1>
+<p align="center"><b>C++ ментор | ITMO student | Math teacher</b></p>
 
 ---
 
-## Обо мне
+## 👨‍💻 Обо мне
 
 - 🎓 Студент Университета ИТМО
 - 🧑‍🏫 **C++ ментор** и преподаватель **олимпиадной математики**
