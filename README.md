@@ -6,6 +6,7 @@
 ## Cтек
 
 * C++20
+* C#
 * Python
 * PostgreSQL
 * SystemVerilog, Logisim Evolution
