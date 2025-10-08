@@ -57,7 +57,7 @@
 
 ## 📫 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/a11nd3r)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/taynodernul11)
 [![Email](https://img.shields.io/badge/Email-eg0rof@yandex.ru-blue?style=flat&logo=gmail&logoColor=white)](mailto:eg0rof@yandex.ru)
 
 ---
