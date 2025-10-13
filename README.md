@@ -15,7 +15,7 @@
 
 ## ⚙️ Stack
 
-<p align="left" style="zoom:1.4;">
+<p align="left" style="zoom:2.4;">
   <img src="https://img.shields.io/badge/SystemVerilog-FF9900?style=flat&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=E63946"/>
   <img src="https://img.shields.io/badge/C++-004482?style=flat&logo=c%2B%2B&logoColor=white"/>
