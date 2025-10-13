@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-224870?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
+
 ---
 
 ## 🛠️ Проекты
