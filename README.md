@@ -16,7 +16,7 @@
 ## ⚙️ Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SystemVerilog-FF9900?style=flat&logoColor=white" height="28"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-FF9900?style=flat&logoColor=white" height="32"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=E63946" height="28"/>
   <img src="https://img.shields.io/badge/C++-004482?style=flat&logo=c%2B%2B&logoColor=white" height="28"/>
   <img src="https://img.shields.io/badge/PostgreSQL-224870?style=flat&logo=postgresql&logoColor=white" height="28"/>
