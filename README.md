@@ -13,17 +13,17 @@
 
 ---
 
-## 🛠️ Stack
+## ⚙️ Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SystemVerilog-FFB500?style=flat"/>
-  <img src="https://img.shields.io/badge/Logisim%20Evolution-008000?style=flat"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=FFD43B"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-224870?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-FF9900?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logisim%20Evolution-006400?style=flat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
-
 ---
 
 ## 🛠️ Проекты
