@@ -13,7 +13,7 @@
 
 ---
 
-## ⚙️ Stack
+## Stack
 
 - <p align="left">
   <img src="https://img.shields.io/badge/SystemVerilog-FF9900?style=flat&logoColor=white" height="32"/>
@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanderr30&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -57,7 +57,7 @@
 
 ---
 
-## 📫 Контакты
+## Контакты
 
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/taynodernul11)
 [![Email](https://img.shields.io/badge/Email-eg0rof@yandex.ru-blue?style=flat&logo=gmail&logoColor=white)](mailto:eg0rof@yandex.ru)
