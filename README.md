@@ -47,16 +47,6 @@
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sanderr30.vercel.app/api?username=Sanderr30&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats-sanderr30.vercel.app/api/top-langs/?username=Sanderr30&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
-
----
 
 ## Контакты
 
